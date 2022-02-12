@@ -1,0 +1,2 @@
+Este es un archivo de prueba:
+Creación de un nuevo archivo en GitHub desde una rama alterna a main
