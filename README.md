@@ -1,4 +1,5 @@
 # Hello_World
+Mi primer repositorio de prueba.
 
-By: Jorge Castillo 
-Created on: February 2022
+Created By: Jorge Castillo 
+Date of Creation: February 2022
